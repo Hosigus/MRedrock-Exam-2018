@@ -228,7 +228,7 @@ Content-Type: multipart/form-data
 | photo1 | image file | 图片上传, 多图片上传时, 直接把参数改成photo2 photo3 ,切记此处文件参数只能为photo+数字格式,后端做了正则校验 |
 | photo2 | image file | 图片上传, 多图片上传时, 直接把参数改成photo2 photo3 ,切记此处文件参数只能为photo+数字格式,后端做了正则校验 |
 
-> 注：图片最多上传三张
+> 注：图片最多上传四张
 
 #### response-body
 ```json
